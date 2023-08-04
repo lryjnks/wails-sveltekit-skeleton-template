@@ -4,6 +4,10 @@
 
 This is a template for a Wails application with a SvelteKit frontend. It is using the popular [Skeleton](https://www.skeleton.dev/) Component Library combined with [TailwindCSS](https://tailwindcss.com/). This template uses [adapter-static](https://kit.svelte.dev/docs/adapter-static) to make generated files embeddable. And [SSR](https://kit.svelte.dev/docs/page-options#ssr) is disabled by default to make it work with Wails.
 
+### Installing pnpm
+
+https://pnpm.io/installation
+
 ### Creating a Project
 
 ```sh
