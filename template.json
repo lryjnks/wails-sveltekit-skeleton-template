@@ -1,0 +1,7 @@
+{
+  "name": "Wails SvelteKit Skeleton Template",
+  "shortname": "wails-sveltekit-skeleton-template",
+  "author": "robinsamuel",
+  "description": "A Wails Template using SvelteKit and the popular Skeleton Component Library for Sveltekit combined with TailwindCSS",
+  "helpurl": "https://www.robinsamuel.dev/help"
+}
